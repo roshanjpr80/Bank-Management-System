@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "created_at": "2026-01-18T07:33:06Z",
+        "admin": {
+            "username": "roshan",
+            "password": "roshan8084"
+        }
+    },
+    "accounts": [
+        {
+            "account_no": "OFAG852927",
+            "name": "Rahul Kumar",
+            "age": 24,
+            "mobile": "9708465605",
+            "email": "ros@gmail.com",
+            "aadhaar": "123456789123",
+            "pan": "123A456789",
+            "address": "Bihar, India",
+            "pin_salt": "eb3a4ed9092d377a",
+            "pin_hash": "3c70835e0e78cb2ee05235f905594b12326145f9c4c3822a6a6d8326d247548e",
+            "balance": 500.0,
+            "transactions": [
+                {
+                    "tx_id": "62a9427f303a4272aedf6f4cda39255f",
+                    "type": "deposit",
+                    "amount": 1000.0,
+                    "balance_after": 1000.0,
+                    "note": "",
+                    "ts": "2026-01-18T07:39:14Z"
+                },
+                {
+                    "tx_id": "7875041e82544525827544e2b2ca1ca3",
+                    "type": "withdraw",
+                    "amount": 500.0,
+                    "balance_after": 500.0,
+                    "note": "",
+                    "ts": "2026-01-18T07:39:38Z"
+                }
+            ]
+        }
+    ]
+}
