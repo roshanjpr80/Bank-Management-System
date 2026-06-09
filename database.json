@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "admin": {
+            "username": "admin",
+            "password": "admin123"
+        }
+    },
+    "accounts": [
+        {
+            "account_no": "10000001",
+            "name": "Roshan",
+            "mobile": "9876543210",
+            "email": "roshan@gmail.com",
+            "aadhaar": "123456789012",
+            "pan": "ABCDE1234F",
+            "status": "Active",
+            "pin_salt": "",
+            "pin_hash": "",
+            "balance": 5800.0,
+            "transactions": [
+                {
+                    "tx_id": "bdfe650a",
+                    "date": "2026-06-09 16:07:17",
+                    "type": "deposit",
+                    "amount": 800.0,
+                    "note": ""
+                }
+            ]
+        },
+        {
+            "account_no": "71555272",
+            "name": "Rahul Kumar",
+            "age": 18,
+            "mobile": "1234567890",
+            "email": "",
+            "aadhaar": "123456789012",
+            "pan": "1234567890",
+            "address": "",
+            "pin_salt": "af694b8009f321cb6d88368fb496e8a8",
+            "pin_hash": "92552d0f68c829f67c681a44f58fc0e0674c2f6bb0967bdfbfea297d75b53a50",
+            "balance": 0.0,
+            "transactions": []
+        }
+    ]
+}
