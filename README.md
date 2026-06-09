@@ -4,21 +4,21 @@ A professional Bank Management System developed using Python and Streamlit. This
 
 # Customer Features
 
-Create New Account
-Deposit Money
-Withdraw Money
-Transfer Money
-View Account Details
-Balance Inquiry
-Transaction History
-Interest Calculator
-Search Accounts
-Secure PIN Authentication
+Create New Account,
+Deposit Money,
+Withdraw Money,
+Transfer Money,
+View Account Details,
+Balance Inquiry,
+Transaction History,
+Interest Calculator,
+Search Accounts,
+Secure PIN Authentication,
 
 # Admin Features
 
-Admin Login
-View All Accounts
-Monitor Customer Accounts
-View Total Deposits
-Account Search
+Admin Login,
+View All Accounts,
+Monitor Customer Accounts,
+View Total Deposits,
+Account Search,
